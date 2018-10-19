@@ -1,0 +1,6 @@
+{
+
+  "RedirectUrl": "http://localhost:49341/survey",
+  "LogoutUrl": "http://localhost:49341/home/loggedout",
+  "Authority": "http://localhost:5000"
+}

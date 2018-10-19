@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"SurveyContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Models","ProjectRootNamespace":"SimpleSurvey","SelectedToBeGenerated":0,"Tables":["dbo.SurveyEntry","dbo.SurveyResponse"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":true}
